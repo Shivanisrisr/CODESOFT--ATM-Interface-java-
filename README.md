@@ -5,7 +5,8 @@ The ATM Interface in Java is a robust, user-friendly application facilitating se
  Welcome to my awesome project! Here's a screenshot:
 
 ![Project Screenshot](output/ATM_Interface-mainfile.png) 
-(output/BankAccount.class.png)
+![Alt Text](https://github.com/yourusername/your-repo/raw/main/images/old-image.png)
+
 
 ## Watch the Demo Video
 
