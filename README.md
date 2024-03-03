@@ -1,7 +1,11 @@
 # CODESOFT--ATM-Interface-java-
 The ATM Interface in Java is a robust, user-friendly application facilitating secure financial transactions. It employs object-oriented principles, ensuring a modular design for efficient code maintenance and extensibility.
 
-                                                                  **   Welcome to the Project!**
+                                                 **   Welcome to the Project!**
+ Welcome to my awesome project! Here's a screenshot:
+
+![Project Screenshot](output/ATM_Interface-mainfile.png) 
+(output/BankAccount.class.png)
 
 ## Watch the Demo Video
 
